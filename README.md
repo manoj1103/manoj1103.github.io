@@ -30,7 +30,7 @@ Created 11 notebooks to help data science enthusiast covering Python Foundations
 
 ![Manoj resume-1](https://user-images.githubusercontent.com/44062714/85837811-33d8d280-b7b6-11ea-816f-002db25903fb.jpg)
 <br>
-<a href="https://drive.google.com/file/d/1QamyxdRW_VhNmrFiOK1vyQHe4upjKkiy/view?usp=sharing" download="sai srinivas reddy">Download</a>
+<a href="https://drive.google.com/file/d/1VDL15TYiBRe1VpfCSB_XOSJcZFqpDese/view?usp=sharing" download="Bolloju Manoj Kumar">Download</a>
 
 ***
 
