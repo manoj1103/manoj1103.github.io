@@ -27,7 +27,8 @@ Created 11 notebooks to help data science enthusiast covering Python Foundations
 
 ***
 # Resume
-![image](https://user-images.githubusercontent.com/43592400/83018132-64f0a680-a042-11ea-95fa-15862f5d5ca7.png)
+
+[Manoj resume.pdf](https://github.com/manoj1103/manoj1103.github.io/files/4835873/Manoj.resume.pdf)
 <br>
 <a href="https://drive.google.com/file/d/1QamyxdRW_VhNmrFiOK1vyQHe4upjKkiy/view?usp=sharing" download="sai srinivas reddy">Download</a>
 
