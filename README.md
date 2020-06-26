@@ -8,7 +8,7 @@ I have completed `` 29 `` courses and `` 4 `` tracks in the [DataCamp](https://w
  1. [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/140aaf68b171296fe2564214e6e26f5b0f0fd40d) 
  2. [Introduction to Deep Learning with Keras](https://www.datacamp.com/statement-of-accomplishment/course/c5d9d47d39bdb8ab2dac4932141208b71e9519f0)
  3. [Python Programmer](https://www.datacamp.com/statement-of-accomplishment/track/c7fe30beead7acc55ff134cffd6f79bb562263ad)
- 4. [Data Analyst with Python] (https://www.datacamp.com/statement-of-accomplishment/track/90c5a834901d7e417d127d462d43afb68797f7d7)
+ 4. [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/90c5a834901d7e417d127d462d43afb68797f7d7)
 <br>etc
 
 ***
