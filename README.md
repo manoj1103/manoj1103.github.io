@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/44062714/83838231-39db1680-a716-11ea-8614-69016615b63a.jpeg)
 
-<span style="color:black">Hello, I'm Sai Srinivas Reddy, A final year Computer Science Engineering undergraduate at St. Martin's Engineering College who is a passionate data scientist and loves to solve real-world data science problems especially in the fields of `` computer vision ``using deep learning. I have experience on different python libraries like `` BeautifulSoup ``, `` Numpy ``, `` Pandas``,`` Matplotlib ``, `` scikit-learn ``, `` Pytorch ``,`` keras ``, `` opencv ``etc.</span> 
+<span style="color:black">Hello, I'm Bolloju Manoj Kumar, A final year Electronics and communication Engineering undergraduate at St. Martin's Engineering College who is a passionate data scientist and loves to solve real-world data science problems especially in the fields of `` computer vision ``using deep learning. I have experience on different python libraries like `` BeautifulSoup ``, `` Numpy ``, `` Pandas``,`` Matplotlib ``, `` scikit-learn ``, `` Pytorch ``,`` keras ``, `` opencv ``etc.</span> 
 
 ***
 # Online Courses - [My DataCamp Profile](https://www.datacamp.com/profile/manojtinku03)
@@ -15,15 +15,15 @@ I have completed `` 29 `` courses and `` 4 `` tracks in the [DataCamp](https://w
 
 # Projects
  
-## [__Web Scraping DataCamp Website__](https://github.com/musirikasrinivas/Web-Scraping-DC):
+## [__Web Scraping DataCamp Website__](https://github.com/manoj1103/Web-Scraping-DC/blob/master/DC_webscraping.py):
  Design and developed python code to download all videos, pdf, data files and markdown by one click rather than using hundreds of clicks from DataCamp including dynamic content using selenium.
  
-## [__Data Visualization (Bar Chart Racing)__](https://github.com/musirikasrinivas/Data-Visualization/blob/master/batting.ipynb):
+## [__Data Visualization (Bar Chart Racing)__](https://github.com/manoj1103/Data-Visualization/blob/master/batting.ipynb):
 Design and developed data visualization for ICC ODI /Test/ T20 performance on batting, bowling and fielding.
 <br>
 Here is one of the visualizations: [T20 Runs](https://preview.flourish.studio/1625120/VRcyJSXkDuSHGZ1m0mJbr9bKN1Jk48XwdS6IMxQaCLMgPirAGDh7ilOCPg_Qb726/)
 
-## [__Data Science in Python - Notebooks__]( https://github.com/musirikasrinivas/Data_Camp_Plus-DSP):
+## [__Data Science in Python - Notebooks__]( https://github.com/manoj1103/Data_Camp_Plus-DSP):
 Created 11 notebooks to help data science enthusiast covering Python Foundations, Pandas, Matplotlib, NumPy etc., 
 
 ***
