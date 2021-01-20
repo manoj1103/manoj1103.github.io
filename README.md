@@ -28,7 +28,7 @@ Created 11 notebooks to help data science enthusiast covering Python Foundations
 ***
 # Resume
 
-![Manoj resume-1](https://user-images.githubusercontent.com/44062714/85837811-33d8d280-b7b6-11ea-816f-002db25903fb.jpg)
+![Manoj Kumar Bolloju Resume-1](https://user-images.githubusercontent.com/44062714/105188952-73a04680-5b5a-11eb-8470-ade4bf0ed316.jpg)
 <br>
 <a href="https://drive.google.com/file/d/1VDL15TYiBRe1VpfCSB_XOSJcZFqpDese/view?usp=sharing" download="Bolloju Manoj Kumar">Download</a>
 
