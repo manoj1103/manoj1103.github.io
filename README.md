@@ -1,4 +1,4 @@
-![manojpic](https://user-images.githubusercontent.com/44062714/85837077-338c0780-b7b5-11ea-97a4-802e60a6f6bc.jpeg)
+![tinku](https://user-images.githubusercontent.com/44062714/105187478-da246500-5b58-11eb-942b-4eb1fc736044.jpeg)
 <span style="color:black">Hello, I'm Bolloju Manoj Kumar, A final year Electronics and communication Engineering undergraduate at St. Martin's Engineering College who is a passionate data scientist and loves to solve real-world data science problems especially in the fields of `` computer vision ``using deep learning. I have experience on different python libraries like `` BeautifulSoup ``, `` Numpy ``, `` Pandas``,`` Matplotlib ``, `` scikit-learn ``, `` Pytorch ``,`` keras ``, `` opencv ``etc.</span> 
 
 ***
